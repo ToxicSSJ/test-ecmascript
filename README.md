@@ -16,3 +16,10 @@ Este repositorio contiene el código que se utiliza durante el desarrollo del cu
 - EcmaScript 7
   - Operadores
   - Pruebas con Include de arreglos
+- EcmaScript 8
+  - Función Object.entries
+  - Función Object.values
+  - Función length
+  - Función padStart
+  - Función padEnd
+  - Pruebas de estructuras
