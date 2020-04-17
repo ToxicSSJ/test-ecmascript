@@ -2,9 +2,9 @@
 
 Este repositorio contiene el código que se utiliza durante el desarrollo del curso de EcmaScript en Platzi.
 
-Actualmente se cuenta con pruebas en las versiones 6, 7, 8 y 9 de EcmaScript.
+Actualmente se cuenta con pruebas en las versiones 6, 7, 8, 9 y 10 de EcmaScript.
 
-## Contenidos
+## Pruebas Realizadas
 
 - EcmaScript 6
   - Valores por Defecto
@@ -31,3 +31,10 @@ Actualmente se cuenta con pruebas en las versiones 6, 7, 8 y 9 de EcmaScript.
   - Anidar Objectos
   - finally en Promesas
   - Uso de Regex
+- EcmaScript 10
+  - Prueba con Symbol
+  - Función Object.fromEntries
+  - Función trimStart
+  - Función trimEnd
+  - Función flatMap
+  - Función flat
