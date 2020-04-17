@@ -23,3 +23,4 @@ Este repositorio contiene el código que se utiliza durante el desarrollo del cu
   - Función padStart
   - Función padEnd
   - Pruebas de estructuras
+  - Async Await
