@@ -16,6 +16,9 @@ let hello = 'hello world         '
 console.log(hello) // imprime con los espacios
 console.log(hello.trimEnd()) // remueve los espacios al final
 
+// console color
+console.log("%cTesting blue color...", "color: blue");
+
 // try {
 // 
 // } catch(error) {
